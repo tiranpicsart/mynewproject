@@ -1,2 +1,1 @@
-# mynewproject
-hi
+# mynewprojecthi
